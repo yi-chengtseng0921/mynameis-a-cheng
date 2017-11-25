@@ -1,0 +1,106 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Page Title</title>
+<meta charset="UTF-8">
+<meta name="description" content="Web Tutorials">
+<meta name="keywords" content="HTML, CSS, JavaScript">
+<meta name="author" content="NTTU">
+</head>
+<body>
+<div style="float:left;width:400px;height:400px;background-color:lightgray">
+<p>你想知的世界盃相關訊息</p>
+<hr>
+<a href="http://www.fifa.com/worldcup/index.html" target="_blank">世界盃官網</a>
+<br>
+<br>
+<a href="https://www.womstation.com/p/6600/worldcup/index.html" target="_blank">一生一次的世界盃足球賽2018前進俄羅斯吧</a>
+<br>
+<br>
+<a href="http://https://www.google.com.tw/url?sa=t&rct=j&q=&esrc=s&source=web&cd=9&cad=rja&uact=8&ved=0ahUKEwiavYnh19nXAhWJabwKHffDAzgQFghgMAg&url=https%3A%2F%2Fshowwe.tw%2Fbooks%2Fchoice.aspx%3Fc%3D361&usg=AOvVaw0IPwPyCNtGbWSO3Ts1B4Zs/worldcup/index.html" target="_blank">2018世界杯足球賽在俄國，語言不通怎麼辦?</a>
+<br>
+<br>
+<a href="http://www.epochtimes.com/b5/17/9/13/n9627233.htm/worldcup/index.html" target="_blank">俄羅斯世界盃足球賽門票14日開始出售</a>
+<br>
+<br>
+<a href="http://blog.udn.com/19900811/109052602/worldcup/index.html" target="_blank">2018 俄羅斯世界盃足球賽32強名單確定</a>
+<br>
+<br>
+<a href="https://www.msn.com/zh-tw/sports/soccer/soccer-worldcup-qualifier/worldcup/index.html" target="_blank">世界盃足球賽 亞洲區資格賽</a>
+</div>
+<div style="height:400px;background-color:lightblue">
+<img src= "123.jpg" width= "400" height="400" />
+<img src= "google2.jpg" width= "400" height="400" />
+</div>
+<div style="height:75px;background-color:white">
+<iframe src="https://www.facebook.com/plugins/like.php?href=https%3A%2F%2Fdevelopers.facebook.com%2Fdocs%2Fplugins%2F&width=450&layout=standard&action=like&size=small&show_faces=true&share=true&height=80&appId" width="450" height="80" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true"></iframe>
+</div>
+<hr>
+<h1>亞洲區外圍賽戰績</h1>
+<table border="1">
+<tr>
+<td>韓國1</td>
+<td>0黎巴嫩</td>
+</tr>
+<tr>
+<td>中國2</td>
+<td>0卡達</td>
+</tr>
+<tr>
+<td>中華台北2</td>
+<td>1汶萊</td>
+</tr>
+</table>
+<table border="1">
+<tr>
+<td>中華台北後衛 陳昌源</td>
+<td><img src= "789.jpg" width="128" height="128" /></td>
+</tr>
+<tr>
+<td>中華台北門將 潘文傑</td>
+<td><img src= "456.jpg" width="128" height="128" /></td>
+</tr>
+</table>
+<hr>
+<h1>世界盃亞洲區確定晉級</h1>
+<ul>
+<li>巴林</li>
+<li>伊朗</li>
+<li>南韓</li>
+<li>日本</li>
+<li>澳門</li>
+<p>等國家隊...</p>
+</ul>
+<hr>
+<h1><mark>About</mark></h1>
+<dl>
+<dt><b>Chinese Taipei new coach</b></dt>
+<dd>- <em>Gary White</em></dd>
+</dl>
+<p>This is<sub> World</sub> of <sup>Asia</sup></p>
+<p>My favorite team is<del> China</del><ins> Taiwan</ins>!</p>
+<hr>
+<h1>My First Heading</h1>
+<address>
+Written by abc.com<br>
+<a href="mailto:abc@abc.org">Email us</a><br>
+Address: Box 123, Russia<br>
+Phone: +023854685251
+</address>
+<bdo dir="rtl">
+</bdo>
+<h1>What?</h1>
+<p>soccer &aring;</p>
+<p>soccer &cent;</p>
+<p>soccer &reg;</p>
+<h1 style="color:blue">Which country held world soccer champion?</h1>
+<p style="color:red">Russia</p>
+<h1>2018世界盃</h1>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SD8k6VWOp8I" frameborder="0" allowfullscreen></iframe>
+<hr>
+<div>
+<div style="height:75px;background-color:light gray">
+<p>10415112 曾奕程</p>
+</div>
+</body>
+</html>
